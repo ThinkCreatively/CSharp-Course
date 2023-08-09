@@ -1,3 +1,5 @@
+// Learning and practing creating a class, public methods, and basic syntax
+
 class Lasagna
 {
   // TODO: define the 'ExpectedMinutesInOven()' method
